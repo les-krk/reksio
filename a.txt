@@ -1,5 +1,10 @@
 file 1, commit 1
 przed commi 2
 
+<<<<<<< HEAD
 master zmiana
+=======
+w branch drugi
+
+>>>>>>> drugi
 
