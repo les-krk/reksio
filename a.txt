@@ -1,3 +1,6 @@
 file 1, commit 1
 przed commi 2
 
+w branch drugi
+
+
